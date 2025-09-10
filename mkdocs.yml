@@ -1,4 +1,4 @@
-site_name: EGR 304 Data Sheet Template
+site_name: EGR 314 Data Sheet Template
 site_url: https://embedded-systems-design.github.io/EGR304DataSheetTemplate
 repo_url: https://github.com/embedded-systems-design/EGR304DataSheetTemplate
 edit_uri: edit/main/docs/
@@ -10,8 +10,8 @@ theme:
     accent: indigo
   font:
     text: Roboto
-  logo: static/logo304.svg
-  favicon: static/logo304.png
+  logo: static/logo314.svg
+  favicon: static/logo314.png
 
   features:
     - navigation.tabs
