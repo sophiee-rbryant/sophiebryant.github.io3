@@ -50,4 +50,9 @@
          <lastmod>2025-09-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://embedded-systems-design.github.io/EGR314DataSheetTemplate/stylesheets/</loc>
+         <lastmod>2025-09-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
